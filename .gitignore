@@ -1,0 +1,29 @@
+# models checkpoints
+notebooks/21_lesson_models
+notebooks/22 _homework_classfifcation/testset
+notebooks/22 _homework_classfifcation/train
+*.pth
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# datasets
+*.zip
+*.gz
+*.csv
+notebooks/19 conv homework/MNIST
+notebooks/hymenoptera_data/
+
+
+# tmp and info files
+*.tmp
+*.log
+*.pkl
+notebooks/16 homework kaggle/catboost_info/
+
+# other
+
+
+
